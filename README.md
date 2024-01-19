@@ -8,8 +8,8 @@ I like to learn new stuff
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [Here](http://github.com/hurrycaze)
-* ✉️  You can contact me at [067kuba@gmail.com](mailto:067kuba@gmail.com)
-* 🚀  I'm currently working on [Data Mnaging](http://www.youtube.com/playlist?list=PLvPZwpZpVhNLohHiYuyBTdQRiBdw2jBob)
+* ✉️  You can contact me at [hurrycaze@gmail.com](mailto:hurrycaze@gmail.com)
+* 🚀  I'm currently working on [Data Science](http://www.youtube.com/playlist?list=PLvPZwpZpVhNLohHiYuyBTdQRiBdw2jBob)
 * 🧠  I'm learning Python and R
 * ⚡  I can't work after 10 am... because I'm batman!
 
