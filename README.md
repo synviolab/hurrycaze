@@ -1,4 +1,4 @@
-[English](#english) | [Polski](#polski) | [Español](#español)
+[🇺🇸 English](#english) | [🇵🇱 Polski](#polski) | [🇪🇸 Español](#español)
 
 ---
 
@@ -17,8 +17,8 @@ I'm a young entrepreneur building startups, passionate about programming with AI
 - 💬 **Ask me about:** AI programming, startup creation, and the latest ecommerce technologies.
 - 📫 **How to reach me:**  
   - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
-  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
-  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+  - **LinkedIn:** <a href="https://www.linkedin.com/in/jakubjedruch/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="20" height="20" /></a>  
+  - **X:** <a href="https://x.com/synviolab"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="20" height="20" /></a>
 - ⚡ **Fun fact:** I'm always exploring new technologies to push the limits of what's possible.
 
 ### Technologies I Work With
@@ -31,10 +31,6 @@ I'm a young entrepreneur building startups, passionate about programming with AI
 
 - **Synvio.io:**  
   Synvio.io is an innovative startup offering AI-driven services for ecommerce. It provides seamless plugins and modules that integrate AI functionalities into existing ecommerce platforms, enhancing efficiency and customer experience.
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
 ### Contact
 
@@ -57,8 +53,8 @@ Jestem młodym przedsiębiorcą tworzącym startupy, pasjonującym się programo
 - 💬 **Pytaj mnie o:** Programowanie z użyciem AI, tworzenie startupów i najnowsze technologie w ecommerce.
 - 📫 **Jak się ze mną skontaktować:**  
   - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
-  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
-  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+  - **LinkedIn:** <a href="https://www.linkedin.com/in/jakubjedruch/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="20" height="20" /></a>  
+  - **X:** <a href="https://x.com/synviolab"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="20" height="20" /></a>
 - ⚡ **Ciekawostka:** Ciągle poszukuję nowych technologii, aby przesuwać granice możliwości.
 
 ### Technologie, z którymi pracuję
@@ -71,10 +67,6 @@ Jestem młodym przedsiębiorcą tworzącym startupy, pasjonującym się programo
 
 - **Synvio.io:**  
   Synvio.io to innowacyjny startup oferujący usługi AI dla ecommerce. Platforma umożliwia integrację funkcjonalności AI poprzez wtyczki i moduły do istniejących platform ecommerce, co zwiększa efektywność i poprawia doświadczenie klientów.
-
-### Statystyki GitHub
-
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
 ### Kontakt
 
@@ -97,8 +89,8 @@ Soy un joven emprendedor que construye startups, apasionado por la programación
 - 💬 **Pregúntame sobre:** Programación con IA, creación de startups y las últimas tecnologías en ecommerce.
 - 📫 **Cómo contactarme:**  
   - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
-  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
-  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+  - **LinkedIn:** <a href="https://www.linkedin.com/in/jakubjedruch/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="20" height="20" /></a>  
+  - **X:** <a href="https://x.com/synviolab"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="X" width="20" height="20" /></a>
 - ⚡ **Dato curioso:** Siempre estoy explorando nuevas tecnologías para superar los límites de lo posible.
 
 ### Tecnologías que uso
@@ -112,15 +104,6 @@ Soy un joven emprendedor que construye startups, apasionado por la programación
 - **Synvio.io:**  
   Synvio.io es una startup innovadora que ofrece servicios impulsados por IA para ecommerce. Proporciona plugins y módulos que integran funcionalidades de IA en plataformas de ecommerce existentes, mejorando la eficiencia y la experiencia del cliente.
 
-### Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-
 ### Contacto
 
 ¡Contáctame!
-- **E-mail:** [twój_email@domena.com](mailto:twój_email@domena.com)
-
----
-
-Thank you for visiting my profile! / Dziękuję za odwiedzenie mojego profilu!
