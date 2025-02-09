@@ -1,39 +1,36 @@
-[English](#english) | [Polski](#polski)
+[English](#english) | [Polski](#polski) | [Español](#español)
 
 ---
 
 ## English
 
-Hi, I'm [Your Name]! 👋
-========================
+# Hi, I'm **Kuba!** 👋
 
-Welcome to my GitHub profile! I'm [a brief description about yourself, e.g., a programming enthusiast, a tech innovator, or a computer science student]. On GitHub, I share my projects, ideas, and experiences.
+I'm a young entrepreneur building startups, passionate about programming with AI and creating innovative solutions that push the boundaries of technology.
 
 ### About Me
 
-- 🔭 Currently working on: [Your current projects or technologies you're exploring]
-- 🌱 Learning: [Technologies or programming languages you are learning]
-- 👯 Open to collaborating on: [Types of projects you're interested in]
-- 💬 Ask me about: [Topics you are knowledgeable about or passionate towards]
-- 📫 How to reach me: [Your email address or link to your social media profiles]
-- ⚡ Fun fact: [Something interesting or unique about you]
+- 🔭 **Currently working on:** [**Synvio.io**](https://synvio.io)  
+  *A platform providing AI services for ecommerce through plugins or modules that integrate with existing ecommerce platforms.*
+- 🌱 **Learning:** Building applications with LLMs, JavaScript, and Next.js.
+- 👯 **Open to collaborating on:** Projects in AI, ecommerce, and startup development.
+- 💬 **Ask me about:** AI programming, startup creation, and the latest ecommerce technologies.
+- 📫 **How to reach me:**  
+  - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
+  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
+  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+- ⚡ **Fun fact:** I'm always exploring new technologies to push the limits of what's possible.
 
 ### Technologies I Work With
 
-- **Programming Languages:** [e.g., Python, JavaScript, Java, C++]
-- **Frameworks & Libraries:** [e.g., React, Node.js, Django, Flask]
-- **Databases:** [e.g., PostgreSQL, MongoDB]
-- **Other Tools:** [e.g., Docker, Git, CI/CD, Linux]
+- **Programming Languages:** Python  
+- **Frameworks & Libraries:** React, Next.js  
+- **Tools:** Cursor, V0, Replit
 
 ### Projects
 
-Here are some of my featured projects:
-
-- [**Project 1**](link) — A brief description of what this project is about and the problems it solves.
-- [**Project 2**](link) — A short explanation of what makes this project stand out.
-- [**Project 3**](link) — A few words about the technology or functionality behind this project.
-
-You can find more projects in the [Repositories](https://github.com/your_username?tab=repositories) tab.
+- **Synvio.io:**  
+  Synvio.io is an innovative startup offering AI-driven services for ecommerce. It provides seamless plugins and modules that integrate AI functionalities into existing ecommerce platforms, enhancing efficiency and customer experience.
 
 ### GitHub Stats
 
@@ -41,44 +38,39 @@ You can find more projects in the [Repositories](https://github.com/your_usernam
 
 ### Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **Twitter:** [Your Twitter](link)
-- **E-mail:** [your_email@domain.com](mailto:your_email@domain.com)
+Feel free to reach out!
 
 ---
 
 ## Polski
 
-Cześć, jestem [Twoje Imię]! 👋
-=============================
+# Cześć, jestem **Kuba!** 👋
 
-Witaj na moim profilu GitHub! Jestem [krótki opis siebie, np. pasjonatem programowania, entuzjastą nowych technologii, studentem informatyki] i tutaj dzielę się swoimi projektami, pomysłami oraz doświadczeniem.
+Jestem młodym przedsiębiorcą tworzącym startupy, pasjonującym się programowaniem z wykorzystaniem AI oraz tworzeniem innowacyjnych rozwiązań, które przesuwają granice technologii.
 
 ### O mnie
 
-- 🔭 Obecnie pracuję nad: [Twoje aktualne projekty lub technologie, które zgłębiasz]
-- 🌱 Uczę się: [Technologie lub języki programowania, które aktualnie poznajesz]
-- 👯 Chętnie współpracuję przy: [Rodzaj projektów, które Cię interesują]
-- 💬 Pytaj mnie o: [Tematy, w których się specjalizujesz lub które Cię interesują]
-- 📫 Jak się ze mną skontaktować: [Twój e-mail lub link do profilu w mediach społecznościowych]
-- ⚡ Ciekawostka: [Coś nietypowego lub interesującego o Tobie]
+- 🔭 **Obecnie pracuję nad:** [**Synvio.io**](https://synvio.io)  
+  *Platformą oferującą usługi AI dla ecommerce w formie wtyczek lub modułów, które integrują się z istniejącymi platformami ecommerce.*
+- 🌱 **Uczę się:** Tworzenia aplikacji z LLM, JavaScript oraz Next.js.
+- 👯 **Chętnie współpracuję przy:** Projektach związanych z AI, ecommerce oraz rozwojem startupów.
+- 💬 **Pytaj mnie o:** Programowanie z użyciem AI, tworzenie startupów i najnowsze technologie w ecommerce.
+- 📫 **Jak się ze mną skontaktować:**  
+  - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
+  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
+  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+- ⚡ **Ciekawostka:** Ciągle poszukuję nowych technologii, aby przesuwać granice możliwości.
 
 ### Technologie, z którymi pracuję
 
-- **Języki programowania:** [np. Python, JavaScript, Java, C++]
-- **Frameworki i biblioteki:** [np. React, Node.js, Django, Flask]
-- **Bazy danych:** [np. PostgreSQL, MongoDB]
-- **Inne narzędzia:** [np. Docker, Git, CI/CD, Linux]
+- **Języki programowania:** Python  
+- **Frameworki i biblioteki:** React, Next.js  
+- **Narzędzia:** Cursor, V0, Replit
 
 ### Projekty
 
-Oto kilka moich wybranych projektów:
-
-- [**Projekt 1**](link) — Krótki opis tego, czym jest projekt i jakie problemy rozwiązuje.
-- [**Projekt 2**](link) — Co wyróżnia ten projekt.
-- [**Projekt 3**](link) — Kilka słów o technologii lub funkcjonalności.
-
-Więcej projektów znajdziesz w zakładce [Repositories](https://github.com/your_username?tab=repositories).
+- **Synvio.io:**  
+  Synvio.io to innowacyjny startup oferujący usługi AI dla ecommerce. Platforma umożliwia integrację funkcjonalności AI poprzez wtyczki i moduły do istniejących platform ecommerce, co zwiększa efektywność i poprawia doświadczenie klientów.
 
 ### Statystyki GitHub
 
@@ -86,8 +78,47 @@ Więcej projektów znajdziesz w zakładce [Repositories](https://github.com/your
 
 ### Kontakt
 
-- **LinkedIn:** [Twój profil LinkedIn](link)
-- **Twitter:** [Twój Twitter](link)
+Skontaktuj się ze mną!
+
+---
+
+## Español
+
+# ¡Hola, soy **Kuba!** 👋
+
+Soy un joven emprendedor que construye startups, apasionado por la programación con IA y por crear soluciones innovadoras que superan los límites de la tecnología.
+
+### Acerca de mí
+
+- 🔭 **Actualmente trabajando en:** [**Synvio.io**](https://synvio.io)  
+  *Una plataforma que ofrece servicios de IA para ecommerce mediante plugins o módulos que se integran con plataformas de ecommerce existentes.*
+- 🌱 **Aprendiendo:** Desarrollar aplicaciones con LLM, JavaScript y Next.js.
+- 👯 **Dispuesto a colaborar en:** Proyectos en IA, ecommerce y desarrollo de startups.
+- 💬 **Pregúntame sobre:** Programación con IA, creación de startups y las últimas tecnologías en ecommerce.
+- 📫 **Cómo contactarme:**  
+  - **Email:** [✉️ kuba.yedruch@gmail.com](mailto:kuba.yedruch@gmail.com)  
+  - **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jakubjedruch/)  
+  - **X:** [![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/synviolab)
+- ⚡ **Dato curioso:** Siempre estoy explorando nuevas tecnologías para superar los límites de lo posible.
+
+### Tecnologías que uso
+
+- **Lenguajes de programación:** Python  
+- **Frameworks y bibliotecas:** React, Next.js  
+- **Herramientas:** Cursor, V0, Replit
+
+### Proyectos
+
+- **Synvio.io:**  
+  Synvio.io es una startup innovadora que ofrece servicios impulsados por IA para ecommerce. Proporciona plugins y módulos que integran funcionalidades de IA en plataformas de ecommerce existentes, mejorando la eficiencia y la experiencia del cliente.
+
+### Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+### Contacto
+
+¡Contáctame!
 - **E-mail:** [twój_email@domena.com](mailto:twój_email@domena.com)
 
 ---
